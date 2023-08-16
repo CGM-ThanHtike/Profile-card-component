@@ -32,8 +32,8 @@ The challenge is to build out this Profile card component and get it looking as 
 
 ### Links
 
-- Solution URL: [Click to check my solution at Frontend Mentor]()
-- Live Site URL: [Click to check the live site]()
+- Solution URL: [Click to check my solution at Frontend Mentor](https://www.frontendmentor.io/solutions/looks-simple-but-have-some-tricky-parts-in-this-challenge-HQqUsWzjTV)
+- Live Site URL: [Click to check the live site](https://cgm-thanhtike.github.io/Profile-card-component/)
 
 ## My process
 

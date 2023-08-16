@@ -33,7 +33,7 @@ body {
   display: grid;
   min-height: 100vh;
   min-height: 100dvh;
-  line-height: 1.5;
+  line-height: 1.2;
   color: var(--clr-accent);
   font-family: 'Kumbh Sans', sans-serif;
   background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
