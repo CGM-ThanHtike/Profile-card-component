@@ -109,19 +109,23 @@ body {
 }
 
 .card .bottom-section .profile-detail {
-  padding-block: 1.75rem;
+  padding-block: 1.5rem;
   width: 100%;
   border-bottom: 1px solid hsla(0, 0%, 59%, 30%);
 }
 
+.card .bottom-section .profile-detail .profile-name {
+  margin-bottom: .5rem;
+}
+
 .card .bottom-section .profile-detail .user-id {
-  margin-left: 8px;
+  margin-left: 6px;
 }
 
 .card .bottom-section .profile-reactions {
   display: flex;
   gap: 50px;
-  padding-block: 1.75rem;
+  padding-block: 1.5rem;
 }
 
 .card .bottom-section .profile-reactions .reaction-box span {
